@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a56e4d0-0939-4c5b-a5a8-aada89ca31b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeChallenge2/src/test/java/CodeChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarOppsConcepts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarOppsConcepts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarOppsConcepts/CarOppsConcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarOppsConcepts/CarOppsConcepts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge2/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/src/main/java/CodeChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/src/main/java/CodeChallenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge2/src/test/java/CodeChallenge1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/target/classes/CodeChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge2/target/classes/CodeChallenge1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/FeatureFiles/SearchFlights.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/PageClasses/HomePageElementsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/Resources/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/Resources/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/Resources/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/Resources/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/stepDef/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/stepDef/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/stepDef/SearchFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/src/test/java/com/epam/stepDef/SearchFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/Learn.Java-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/Learn.Java-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucmber-html-report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucmber-html-report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/report-feature_SearchFlights-feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber-report-html/cucumber-html-reports/report-feature_SearchFlights-feature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-junit-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/surefire-reports/testng-native-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/PageClasses/HomePageElementsMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/PageClasses/HomePageElementsMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/Resources/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/Resources/Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/Resources/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/Resources/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/stepDef/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/stepDef/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/stepDef/SearchFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava/target/test-classes/com/epam/stepDef/SearchFlight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/Data/FlightData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/Data/FlightData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/GetDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/src/test/java/RestAssuredTest/GetDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-288882086">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2786" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3002" />
+          <entry key="XML" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StackUsingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Compareclass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StreamsAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CompareObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Java8Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaStreams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Java8Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FunctionalInter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/StackUsingQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Java8Interface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Java8Class.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambdda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FunctionalInter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Compareclass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaStreams.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/StreamsAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaCodes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaCodes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaCodes" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550833252632" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestAssured" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CompareObject">
+    <configuration name="CompareObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareObject" />
+      <module name="JavaCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compareclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compareclass" />
+      <module name="JavaCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpression" />
+      <module name="JavaCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="JavaCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda" />
+      <module name="JavaCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.lambda" />
+      <item itemvalue="Application.LambdaExpression" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Compareclass" />
+      <item itemvalue="Application.CompareObject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompareObject" />
+        <item itemvalue="Application.Compareclass" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.LambdaExpression" />
+        <item itemvalue="Application.lambda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a56e4d0-0939-4c5b-a5a8-aada89ca31b3" name="Default Changelist" comment="" />
+      <created>1542889600824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542889600824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.0836887" />
+      <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.15085287" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.60554373" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3944563" side_tool="true" visible="true" weight="0.2080089" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49840087" weight="0.32925472" />
+      <window_info anchor="bottom" id="SonarQube" order="11" sideWeight="0.4989339" weight="0.32925472" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.49946696" visible="true" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarQube" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambdda.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackUsingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Compareclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StreamsAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompareObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java8Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java8Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FunctionalInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaCodes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
